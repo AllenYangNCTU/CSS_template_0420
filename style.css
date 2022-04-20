@@ -1,0 +1,48 @@
+body {
+    font-size: 80%;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.15em;
+    background-color: #efefef;
+}
+
+.page {
+    max-width: 940px;
+    min-width: 720px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 4px double #000;
+    background-color: #ffffff;
+    height: 90vh;
+}
+
+.logo {
+    width: 150px;
+    margin: 10px auto;
+}
+
+ul {
+    width: 570px;
+    padding: 15px;
+    margin: 0 auto;
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 1px solid black;
+}
+
+li {
+    display: inline;
+    margin: 0px 5px;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 6px 5px;
+}
+p{
+    width: 600px;
+    text-align: justify;
+    font-weight: normal;
+    margin: 20px auto;
+}
